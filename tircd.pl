@@ -20,8 +20,8 @@ use HTML::Entities;
 
 my $VERSION = 0.11;
 # consumer key/secret in the executable instead of config because it should not be edited by user
-my $tw_oauth_con_key = "4AQca4GFiWWaifUknq35Q";
-my $tw_oauth_con_sec = "VB0exmHlErkx4GUUsXvoR4bqaXi56Rl43NL1Z9Q";
+my $tw_oauth_con_key = "TJBVxeY3U5U48y0eZkjgMw";
+my $tw_oauth_con_sec = "p7pmt8d0Nbo3fEdw5X0QWZCu0Ni3r9RVF7fl6yiM";
 
 # I have no idea what the minimum Net::Twitter::Lite version is
 #Do some sanity checks on the environment and warn if not what we want
