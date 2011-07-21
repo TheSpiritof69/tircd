@@ -19,7 +19,7 @@ use URI qw/host/;
 use HTML::Entities;
 
 my $VERSION = 0.11;
-# consumer key/secret in the executable instead of config because it should not be edited by user
+# consumer key/secret in the executable instead of config because it should not be edited by user, edited
 my $tw_oauth_con_key = "TJBVxeY3U5U48y0eZkjgMw";
 my $tw_oauth_con_sec = "p7pmt8d0Nbo3fEdw5X0QWZCu0Ni3r9RVF7fl6yiM";
 
